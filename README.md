@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🚀 About Me
+
+🎓 I am Perfect, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**]. I am a graduate with Bsc in **Pure And Applied Physics** .
+
 <!--
 **Judee-web/Judee-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
