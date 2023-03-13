@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on KTUI a simple cross-platform saas application.
 - 💬 Ask me about frontend topics regarding frontend tools, libraries and frameworks. 
-- ⚡ Fun fact: Did you know that sometimes, AI language models like can generate unexpected and humorous responses? These are known as "AI-generated memes," and they have become quite popular online. In fact, some developers intentionally train AI models to generate funny and absurd responses, just for the sake of entertainment. So, even though AI is often associated with serious applications like automation and decision-making, it can also be a source of amusement and creativity!
+- ⚡ Fun fact: Did you know that sometimes, AI language models can generate unexpected and humorous responses? These are known as "AI-generated memes," and they have become quite popular online. In fact, some developers intentionally train AI models to generate funny and absurd responses, just for the sake of entertainment. So, even though AI is often associated with serious applications like automation and decision-making, it can also be a source of amusement and creativity!
 
 
 ## 🛠️ Skills
