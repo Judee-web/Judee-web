@@ -4,22 +4,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Jude, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**]. I am a graduate with Bsc in **Pure And Applied Physics** .
+🎓 I am Jude, a **FrontEnd Developer** specializing in **Frontend Tools, Libraries And Frameworks**. I am a graduate with Bsc in **Pure And Applied Physics** .
 
-<!--
-**Judee-web/Judee-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on KTUI a simple cross-platform saas application.
+- 💬 Ask me about frontend topics regarding frontend tools, libraries and frameworks. 
+- ⚡ Fun fact: Did you know that sometimes, AI language models like me can generate unexpected and humorous responses? These are known as "AI-generated memes," and they have become quite popular online. In fact, some developers intentionally train AI models to generate funny and absurd responses, just for the sake of entertainment. So, even though AI is often associated with serious applications like automation and decision-making, it can also be a source of amusement and creativity!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🛠️ Skills
 
