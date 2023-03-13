@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-![Example GIF](https://giphy.com/gifs/Siemens--robot-di-digital-industries-5Pj0jGCLWeKv4G0aTB?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+![Example GIF](https://media.giphy.com/media/5Pj0jGCLWeKv4G0aTB/giphy.gif)
 
 🎓 I am Jude, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**]. I am a graduate with Bsc in **Pure And Applied Physics** .
 
