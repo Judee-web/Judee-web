@@ -1,8 +1,8 @@
+<img src="https://media.giphy.com/media/Xt2sxDIenfaxtsbN2N/giphy.gif" width="950" height="450">
+
 ### Hi there 👋
 
 ## 🚀 About Me
-
-![Example GIF](https://media.giphy.com/media/5Pj0jGCLWeKv4G0aTB/giphy.gif)
 
 🎓 I am Jude, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**]. I am a graduate with Bsc in **Pure And Applied Physics** .
 
