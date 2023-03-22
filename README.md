@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Jude, a **FrontEnd Developer** specializing in **Frontend Tools, Libraries And Frameworks**. I am a graduate with Bsc in **Pure And Applied Physics** .
+🎓 I am Jude, a **FrontEnd Developer** specializing in **Frontend Tools, Libraries And Frameworks**.
 
 
 - 🔭 I’m currently working on KTUI a simple cross-platform saas application.
