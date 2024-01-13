@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Jude, a **Software Developer** specializing in **Developer Tool, Libraries And Frameworks** for frontend and backend.
+🎓 I am Jude, a **Software Developer** specializing in **Developer Tools, Libraries And Frameworks** for frontend and backend.
 
 
 - 🔭 I’m currently working on KTUI a simple cross-platform saas application.
